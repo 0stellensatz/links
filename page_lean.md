@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lean
+title: Proof Verification
 permalink: /lean/
 ---
 
