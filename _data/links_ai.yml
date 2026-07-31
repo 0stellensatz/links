@@ -1,0 +1,11 @@
+- heading: "Large Language Models"
+  links:
+  - title: "ChatGPT"
+    url: "https://chatgpt.com"
+    description: "OpenAI's chat assistant."
+  - title: "Claude"
+    url: "https://claude.ai"
+    description: "Anthropic's chat assistant."
+  - title: "Claude Status"
+    url: "https://status.claude.com"
+    description: "Service status for Claude and the Anthropic API."
