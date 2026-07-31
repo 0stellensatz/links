@@ -1,4 +1,4 @@
-- heading: "Large Language Models"
+- heading: "Models"
   links:
   - title: "ChatGPT"
     url: "https://chatgpt.com"
@@ -9,9 +9,6 @@
   - title: "Claude Status"
     url: "https://status.claude.com"
     description: "Service status for Claude and the Anthropic API."
-
-- heading: "Models & Datasets"
-  links:
   - title: "Hugging Face"
     url: "https://huggingface.co"
     description: "Hub for open models, datasets, and demo Spaces."
