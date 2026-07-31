@@ -30,3 +30,33 @@
   - title: "Glimpse of Lean"
     url: "https://github.com/PatrickMassot/GlimpseOfLean"
     description: "A short introductory course for mathematicians new to Lean."
+
+- heading: "The Rocq Prover (Coq Proof Assistant)"
+  links:
+  - title: "Rocq"
+    url: "https://rocq-prover.org"
+    description: "Interactive theorem prover for formalizing mathematics."
+  - title: "UniMath"
+    url: "https://github.com/UniMath/UniMath"
+    description: "Univalent mathematics library for Rocq."
+
+- heading: "Agda"
+  links:
+  - title: "Agda"
+    url: "https://wiki.portal.chalmers.se/agda/"
+    description: "Dependently typed functional language and proof assistant."
+  - title: "Agda Docs"
+    url: "https://agda.readthedocs.io/"
+    description: "Reference manual and user guide for Agda."
+  - title: "Cubical Agda"
+    url: "https://github.com/agda/cubical"
+    description: "Standard library for cubical type theory in Agda."
+
+- heading: "Isabelle"
+  links:
+  - title: "Isabelle"
+    url: "https://isabelle.in.tum.de/"
+    description: "Generic proof assistant, best known for Isabelle/HOL."
+  - title: "Isabelle Docs"
+    url: "https://isabelle.in.tum.de/documentation.html"
+    description: "Manuals, tutorials, and the Archive of Formal Proofs."
