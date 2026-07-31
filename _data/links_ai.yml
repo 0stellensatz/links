@@ -27,6 +27,9 @@
   - title: "Hugging Face"
     url: "https://huggingface.co"
     description: "Hub for open models, datasets, and demo Spaces."
+  - title: "OpenRouter"
+    url: "https://openrouter.ai"
+    description: "One API and playground across many model providers."
 
 - heading: "Is the service down?"
   links:
@@ -57,6 +60,9 @@
   - title: "Hugging Face Status"
     url: "https://status.huggingface.co"
     description: "Service status for the Hub, Spaces, and Inference."
+  - title: "OpenRouter Status"
+    url: "https://status.openrouter.ai"
+    description: "Service status for OpenRouter and its upstream providers."
 
 - heading: "Running local models"
   links:
