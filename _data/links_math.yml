@@ -98,3 +98,9 @@
   - title: "A. Landesman's Notes"
     url: "https://people.math.harvard.edu/~landesman/notes.html"
     description: ""
+
+- heading: "YouTube Channels"
+  links:
+  - title: "3Blue1Brown"
+    url: "https://www.youtube.com/c/3blue1brown"
+    description: "Visual explanations of math concepts."
