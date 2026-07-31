@@ -1,0 +1,11 @@
+{% for section in include.data %}
+<h2>{{ section.heading }}</h2>
+
+<ul>
+{% for link in section.links %}
+<li><a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a>{% if link.description and link.description != "" %} - {{ link.description | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endif %}</li>
+{% endfor %}
+</ul>
+{% endfor %}
+
+<p><a href="{{ site.baseurl }}/">← Back to Home</a></p>

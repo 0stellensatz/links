@@ -1,0 +1,5 @@
+- heading: "Technology"
+  links:
+  - title: "Hacker News"
+    url: "https://news.ycombinator.com/"
+    description: "Technology and startup news aggregator."

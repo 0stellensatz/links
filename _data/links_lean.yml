@@ -1,0 +1,11 @@
+- heading: "Lean Theorem Prover"
+  links:
+  - title: "Lean Zulip"
+    url: "https://leanprover.zulipchat.com/"
+    description: "Community chat for Lean users."
+  - title: "Loogle!"
+    url: "https://loogle.lean-lang.org/"
+    description: "Search Mathlib by name, subexpression, or type shape."
+  - title: "Mathlib Docs"
+    url: "https://leanprover-community.github.io/mathlib4_docs/"
+    description: "API documentation for Mathlib 4."
