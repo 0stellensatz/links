@@ -1,0 +1,86 @@
+- heading: "macOS"
+  links:
+  - title: "Homebrew"
+    url: "https://brew.sh"
+    description: "The missing package manager for macOS."
+
+- heading: "Arch Linux"
+  links:
+  - title: "Arch Linux"
+    url: "https://archlinux.org"
+    description: "Home of the Arch Linux distribution."
+  - title: "Arch Linux Manual Pages"
+    url: "https://man.archlinux.org"
+    description: "Manual pages from the Arch package repositories."
+  - title: "ArchWiki"
+    url: "https://wiki.archlinux.org"
+    description: "Documentation for Arch and Linux in general."
+  - title: "Arch Linux Packages"
+    url: "https://archlinux.org/packages/"
+    description: "Search the official package repositories."
+  - title: "AUR"
+    url: "https://aur.archlinux.org"
+    description: "The Arch User Repository."
+
+- heading: "Gentoo Linux"
+  links:
+  - title: "Gentoo"
+    url: "https://www.gentoo.org"
+    description: "Source-based distribution built with Portage."
+
+- heading: "Debian"
+  links:
+  - title: "Debian"
+    url: "https://www.debian.org"
+    description: "The universal operating system."
+  - title: "Debian Wiki"
+    url: "https://wiki.debian.org"
+    description: "Community documentation for Debian."
+
+- heading: "Ubuntu"
+  links:
+  - title: "Ubuntu"
+    url: "https://ubuntu.com"
+    description: "Canonical's Debian-based distribution."
+  - title: "Ubuntu Key Server"
+    url: "https://keyserver.ubuntu.com"
+    description: "OpenPGP key server run by Canonical."
+
+- heading: "Fedora"
+  links:
+  - title: "Fedora"
+    url: "https://fedoraproject.org"
+    description: "Upstream-first distribution sponsored by Red Hat."
+
+- heading: "FreeBSD"
+  links:
+  - title: "FreeBSD"
+    url: "https://www.freebsd.org"
+    description: "Home of the FreeBSD operating system."
+  - title: "FreeBSD Docs"
+    url: "https://docs.freebsd.org"
+    description: "Handbook, articles, and manual pages."
+
+- heading: "OpenBSD"
+  links:
+  - title: "OpenBSD"
+    url: "https://www.openbsd.org"
+    description: "Home of the OpenBSD operating system."
+  - title: "OpenBSD Docs"
+    url: "https://www.openbsd.org/faq/"
+    description: "The OpenBSD FAQ, the project's main documentation."
+
+- heading: "Virtualization"
+  links:
+  - title: "Docker"
+    url: "https://www.docker.com"
+    description: "Containers for building and shipping applications."
+  - title: "Oracle VirtualBox"
+    url: "https://www.virtualbox.org"
+    description: "Cross-platform virtualization for x86 and ARM."
+  - title: "WSL"
+    url: "https://learn.microsoft.com/en-us/windows/wsl/"
+    description: "Windows Subsystem for Linux documentation."
+  - title: "container (by Apple)"
+    url: "https://github.com/apple/container"
+    description: "Apple's CLI for Linux containers on macOS."
