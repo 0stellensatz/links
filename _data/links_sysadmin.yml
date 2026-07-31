@@ -60,6 +60,9 @@
   - title: "FreeBSD Docs"
     url: "https://docs.freebsd.org"
     description: "Handbook, articles, and manual pages."
+  - title: "FreeBSD Manual Pages"
+    url: "https://man.freebsd.org/cgi/man.cgi"
+    description: "Searchable manual pages across FreeBSD releases."
 
 - heading: "OpenBSD"
   links:
@@ -84,3 +87,12 @@
   - title: "container (by Apple)"
     url: "https://github.com/apple/container"
     description: "Apple's CLI for Linux containers on macOS."
+
+- heading: "Forums"
+  links:
+  - title: "Super User"
+    url: "https://superuser.com"
+    description: "Q&A site for computer enthusiasts and power users."
+  - title: "r/sysadmin Subreddit List"
+    url: "https://www.reddit.com/r/sysadmin/wiki/subreddits/"
+    description: "Directory of sysadmin-related subreddits."
