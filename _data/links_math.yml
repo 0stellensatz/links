@@ -17,3 +17,15 @@
   - title: "The n-Category Café Archive"
     url: "https://web.archive.org/web/20210124082837/http://golem.ph.utexas.edu/category/"
     description: "Archived posts from the n-Category Café."
+
+- heading: "Literatures"
+  links:
+  - title: "The Stacks Project"
+    url: "https://stacks.math.columbia.edu/"
+    description: "Comprehensive reference for algebraic geometry."
+  - title: "K. Conrad's Notes"
+    url: "https://kconrad.math.uconn.edu/blurbs/"
+    description: ""
+  - title: "A. Landesman's Notes"
+    url: "https://people.math.harvard.edu/~landesman/notes.html"
+    description: ""
