@@ -1,0 +1,19 @@
+- heading: "Math Forums"
+  links:
+  - title: "Stack Exchange Mathematics"
+    url: "https://math.stackexchange.com/"
+    description: "Q&A site for math enthusiasts and professionals."
+  - title: "Stack Exchange MathOverflow"
+    url: "https://mathoverflow.net/"
+    description: "Q&A site for professional mathematicians."
+  - title: "MathOverflow Meta"
+    url: "https://meta.mathoverflow.net"
+
+- heading: "Math Blogs"
+  links:
+  - title: "n-Category Café"
+    url: "https://golem.ph.utexas.edu/category/"
+    description: "Blog on higher category theory and related topics."
+  - title: "The n-Category Café Archive"
+    url: "https://web.archive.org/web/20210124082837/http://golem.ph.utexas.edu/category/"
+    description: "Archived posts from the n-Category Café."
