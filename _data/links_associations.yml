@@ -1,0 +1,12 @@
+- heading: "Mathematics"
+  links:
+  - title: "American Mathematical Society (AMS)"
+    url: "https://www.ams.org/"
+  - title: "Mathematical Association of America (MAA)"
+    url: "https://www.maa.org/"
+  - title: "Society for Industrial and Applied Mathematics (SIAM)"
+    url: "https://www.siam.org/"
+  - title: "European Mathematical Society (EMS)"
+    url: "https://euromathsoc.org/"
+  - title: "London Mathematical Society (LMS)"
+    url: "https://www.lms.ac.uk/"
