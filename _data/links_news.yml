@@ -3,3 +3,18 @@
   - title: "Hacker News"
     url: "https://news.ycombinator.com/"
     description: "Technology and startup news aggregator."
+
+- heading: "Science & Mathematics"
+  links:
+  - title: "Quanta Magazine"
+    url: "https://www.quantamagazine.org/mathematics/"
+    description: "In-depth articles on math and science."
+  - title: "Plus Magazine"
+    url: "https://plus.maths.org/content/"
+    description: "Mathematics for a general audience."
+  - title: "Inference: International Review of Science"
+    url: "https://inference-review.com/"
+    description: "Articles on science, including mathematics."
+  - title: "HORIZON"
+    url: "https://horizon.kias.re.kr"
+    description: "Magazine by the Korea Institute for Advanced Study covering various scientific topics."
