@@ -104,3 +104,16 @@
   - title: "3Blue1Brown"
     url: "https://www.youtube.com/c/3blue1brown"
     description: "Visual explanations of math concepts."
+
+- heading: "Tools"
+  links:
+  - title: "q.uiver.app"
+    url: "https://q.uiver.app"
+    description: "Draw commutative diagrams and export them to LaTeX."
+
+- heading: "Institutes"
+  links:
+  - title: "Research Institute for Mathematical Sciences, Kyoto University"
+    url: "https://www.kurims.kyoto-u.ac.jp/en/"
+  - title: "Kavli Institute for the Physics and Mathematics of the Universe, The University of Tokyo"
+    url: "https://www.ipmu.jp/en"
